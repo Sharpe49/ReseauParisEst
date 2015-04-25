@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="898434936">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1333991800">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -100,7 +100,131 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="111151944">
+		<sDriverFrontEndDetails d:id="913250632">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString">Service2</French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">4c8acc44-7e45-4334-a59f-6541b454ee29</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">BB17000 En Voyage</English>
+					<French d:type="cDeltaString">BB17000 En Voyage</French>
+					<Italian d:type="cDeltaString">BB17000 En Voyage</Italian>
+					<German d:type="cDeltaString">BB17000 En Voyage</German>
+					<Spanish d:type="cDeltaString">BB17000 En Voyage</Spanish>
+					<Dutch d:type="cDeltaString">BB17000 En Voyage</Dutch>
+					<Polish d:type="cDeltaString">BB17000 En Voyage</Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">66d63530-9a67-4d22-a4ae-68953cda4a17</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">Dom107</Provider>
+							<Product d:type="cDeltaString">BB17000</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\BB17000_En_Voyage\Default\Engine\bb17023.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">3c6ae96a-3bcd-455c-97d9-e58b5fce615b</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">Dom107</LocoAuthor>
+			<FilePath d:type="cDeltaString">Dom107\BB17000\RailVehicles\Electric\BB17000_En_Voyage\Default\Engine</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="0000002093E20240" d:precision="string">2.36063</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="0000000096704840" d:precision="string">48.8796</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="0000000029384740" d:precision="string">46.4388</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="913250336">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString">Service4</French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">9c732306-c75e-4b1d-9ca9-76b08cbebc25</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">BB17000 En Voyage</English>
+					<French d:type="cDeltaString">BB17000 En Voyage</French>
+					<Italian d:type="cDeltaString">BB17000 En Voyage</Italian>
+					<German d:type="cDeltaString">BB17000 En Voyage</German>
+					<Spanish d:type="cDeltaString">BB17000 En Voyage</Spanish>
+					<Dutch d:type="cDeltaString">BB17000 En Voyage</Dutch>
+					<Polish d:type="cDeltaString">BB17000 En Voyage</Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">ccae0ff4-6cbb-45bf-b757-59098fc54fa1</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">Dom107</Provider>
+							<Product d:type="cDeltaString">BB17000</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\BB17000_En_Voyage\Default\Engine\bb17023.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">9985b1b1-c00a-4012-8eed-b020a1d2091e</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">Dom107</LocoAuthor>
+			<FilePath d:type="cDeltaString">Dom107\BB17000\RailVehicles\Electric\BB17000_En_Voyage\Default\Engine</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="00000000C7E20240" d:precision="string">2.36073</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="0000008098704840" d:precision="string">48.8797</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="0000000029384740" d:precision="string">46.4388</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="913252408">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString"></English>
@@ -126,7 +250,7 @@
 					<Polish d:type="cDeltaString">VB2N Bx IDF</Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">10602d74-a5e4-472f-a005-3afe995c1c9e</Key>
+					<Key d:type="cDeltaString">3b36e462-3c4f-44fb-bd2f-2d2415b914fc</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -151,7 +275,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">03e62aa0-a385-4bd4-bbdc-f5a6984fed10</Key>
+					<Key d:type="cDeltaString">82dd2fa5-1e6a-4cbf-8d65-772fac92654b</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
@@ -162,69 +286,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="0000000029384740" d:precision="string">46.4388</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="111152536">
-			<ServiceName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString"></English>
-					<French d:type="cDeltaString">Service2</French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">6592a036-916a-47db-b705-2168e2432f70</Key>
-				</Localisation-cUserLocalisedString>
-			</ServiceName>
-			<LocoName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Autorail X2200 Rénové</English>
-					<French d:type="cDeltaString">Autorail X2200 Rénové</French>
-					<Italian d:type="cDeltaString">Autorail X2200 Rénové</Italian>
-					<German d:type="cDeltaString">Autorail X2200 Rénové</German>
-					<Spanish d:type="cDeltaString">Autorail X2200 Rénové</Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">1f26b062-c964-4569-ac60-be1d8dde7bb4</Key>
-				</Localisation-cUserLocalisedString>
-			</LocoName>
-			<LocoBP>
-				<iBlueprintLibrary-cAbsoluteBlueprintID>
-					<BlueprintSetID>
-						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">Dominique</Provider>
-							<Product d:type="cDeltaString">RailVehicles</Product>
-						</iBlueprintLibrary-cBlueprintSetID>
-					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">Diesel\Autorail\X2200\Motrice R￩nov￩\Autorail X2200 R￩nov￩.xml</BlueprintID>
-				</iBlueprintLibrary-cAbsoluteBlueprintID>
-			</LocoBP>
-			<StartLocation>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString"></English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">729cbfc2-d168-49c4-9b28-77812b9eac62</Key>
-				</Localisation-cUserLocalisedString>
-			</StartLocation>
-			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
-			<LocoAuthor d:type="cDeltaString">Dominique</LocoAuthor>
-			<FilePath d:type="cDeltaString">Dominique\RailVehicles\Diesel\Autorail\X2200\Motrice R￩nov￩</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="0000000044E00240" d:precision="string">2.3595</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="000000408D704840" d:precision="string">48.8793</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="0000000029384740" d:precision="string">46.4388</Height>
-			<PlayerDriver d:type="bool">0</PlayerDriver>
-		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="1338042536">
+		<sDriverFrontEndDetails d:id="1254542392">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString"></English>
@@ -250,7 +312,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">13e14be5-2ff2-4320-9554-6bee980273bb</Key>
+					<Key d:type="cDeltaString">06a8ce0b-e75a-4b93-8fe7-ba2b47a3f391</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -275,7 +337,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">17d90542-e68e-4a82-8fa1-d3e2fa9fec48</Key>
+					<Key d:type="cDeltaString">de713173-98a6-4e61-bbe4-28a98cf0e800</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
@@ -288,27 +350,23 @@
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="111565648">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1249637632">
 			<Provider d:type="cDeltaString">Dom107</Provider>
 			<Product d:type="cDeltaString">BB17000</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="111565656">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1249637640">
 			<Provider d:type="cDeltaString">Dom107</Provider>
 			<Product d:type="cDeltaString">VB2N</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="111565664">
-			<Provider d:type="cDeltaString">Dominique</Provider>
-			<Product d:type="cDeltaString">RailVehicles</Product>
-		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="111565672">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1249637648">
 			<Provider d:type="cDeltaString">pml3</Provider>
 			<Product d:type="cDeltaString">addon</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="1217241344">
+		<cOwnedEntity d:id="1432829936">
 			<Component>
-				<cEditorSceneryRender d:id="1485467376">
+				<cEditorSceneryRender d:id="1618273712">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -316,16 +374,16 @@
 					<Palette1Index d:type="sUInt8">113</Palette1Index>
 					<Palette2Index d:type="sUInt8">1</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="1217232944">
+				<cPosOri d:id="1432829216">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="1217232968">
+						<cFarMatrix d:id="1432829240">
 							<Height d:type="sFloat32" d:alt_encoding="000000E0F2474740" d:precision="string">46.5621</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="1217233020">
+								<cFarVector2 d:id="1432829292">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -359,7 +417,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="1482871352">
+				<cScriptComponent d:id="1342313696">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -404,19 +462,19 @@
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="881567584">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1175272264">
 			<Provider d:type="cDeltaString">pml3</Provider>
 			<Product d:type="cDeltaString">RailSimulatorCore</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="881567592">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1175272272">
 			<Provider d:type="cDeltaString">pml3</Provider>
 			<Product d:type="cDeltaString">addon</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="881567600">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1175272280">
 			<Provider d:type="cDeltaString">Dom107</Provider>
 			<Product d:type="cDeltaString">BB17000</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="881567608">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1175272288">
 			<Provider d:type="cDeltaString">Dom107</Provider>
 			<Product d:type="cDeltaString">VB2N</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
@@ -428,7 +486,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">361089AD52C4254A32BB77E0D81763C9</MD5>
+	<MD5 d:type="cDeltaString">DE8E614F8374BBCB5C877D20EF0BA22C</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
