@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="784045824">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="917448440">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -100,7 +100,69 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="1586885760">
+		<sDriverFrontEndDetails d:id="911081504">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString">Service5</French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">ba86ff79-522b-44ed-80b3-2c0c70481ba3</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">BB17000 beton</English>
+					<French d:type="cDeltaString">BB17000 beton</French>
+					<Italian d:type="cDeltaString">BB17000 beton</Italian>
+					<German d:type="cDeltaString">BB17000 beton</German>
+					<Spanish d:type="cDeltaString">BB17000 beton</Spanish>
+					<Dutch d:type="cDeltaString">BB17000 beton</Dutch>
+					<Polish d:type="cDeltaString">BB17000 beton</Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">f28aeadd-f01c-4555-a6c1-81a2bfc4f96a</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">Dom107</Provider>
+							<Product d:type="cDeltaString">BB17000</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\BB17000_beton\Default\Engine\bb17000_beton.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">5fd95521-26f2-4c2e-8ed2-7233879781c5</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">Dom107</LocoAuthor>
+			<FilePath d:type="cDeltaString">Dom107\BB17000\RailVehicles\Electric\BB17000_beton\Default\Engine</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="00000060ABE30240" d:precision="string">2.36117</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="000000609A704840" d:precision="string">48.8797</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="0000000029384740" d:precision="string">46.4388</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="911081800">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString"></English>
@@ -126,7 +188,7 @@
 					<Polish d:type="cDeltaString">BB17000 En Voyage</Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">1c6224b7-1311-428b-b5d6-52679e379de4</Key>
+					<Key d:type="cDeltaString">fbd32831-a8ed-4c9d-9013-d7b1ef88bd10</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -151,7 +213,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">47273f8b-26d6-48bb-a309-2bfdfa043cb5</Key>
+					<Key d:type="cDeltaString">b220f06a-d621-4b48-a23d-c52948126c98</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
@@ -162,7 +224,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="0000000029384740" d:precision="string">46.4388</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="1586886056">
+		<sDriverFrontEndDetails d:id="911082096">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString"></English>
@@ -188,7 +250,7 @@
 					<Polish d:type="cDeltaString">BB17000 En Voyage</Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">6084ff0c-8256-4270-b4da-c2593d622af4</Key>
+					<Key d:type="cDeltaString">d59a8f38-97f2-4cb8-ae62-98fccee70cdf</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -213,7 +275,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">8a5e121c-a676-4b74-b6c1-06d5ceb32d03</Key>
+					<Key d:type="cDeltaString">36e14242-5e98-4b5e-b991-0623b1099cbb</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
@@ -224,7 +286,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="0000000029384740" d:precision="string">46.4388</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="1586883688">
+		<sDriverFrontEndDetails d:id="911082392">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString"></English>
@@ -250,7 +312,7 @@
 					<Polish d:type="cDeltaString">VB2N Bx IDF</Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">e47980cf-81af-4b5f-a781-d7fb1f242084</Key>
+					<Key d:type="cDeltaString">3f4fd460-7747-485a-9bdb-05dc945c1383</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -275,7 +337,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">2852df7c-bf4b-487a-9552-7c107d56688f</Key>
+					<Key d:type="cDeltaString">90878ee6-5b0a-4a2f-9e68-6fdd3d94685a</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
@@ -286,7 +348,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="0000000029384740" d:precision="string">46.4388</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="1586886352">
+		<sDriverFrontEndDetails d:id="1416814440">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString"></English>
@@ -312,7 +374,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">a383ef02-80f2-4b66-9c42-5926cc7a6dbc</Key>
+					<Key d:type="cDeltaString">3cb97911-1a1a-4f53-b659-5abe85614df3</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -337,7 +399,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">95092897-0d15-45c1-803e-1424eadcf4f5</Key>
+					<Key d:type="cDeltaString">e1d77dac-2467-4745-9a4c-d8c85e0de291</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
@@ -350,23 +412,23 @@
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="780359024">
+		<iBlueprintLibrary-cBlueprintSetID d:id="908067600">
 			<Provider d:type="cDeltaString">Dom107</Provider>
 			<Product d:type="cDeltaString">BB17000</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="780359032">
+		<iBlueprintLibrary-cBlueprintSetID d:id="908067608">
 			<Provider d:type="cDeltaString">Dom107</Provider>
 			<Product d:type="cDeltaString">VB2N</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="780359040">
+		<iBlueprintLibrary-cBlueprintSetID d:id="908067616">
 			<Provider d:type="cDeltaString">pml3</Provider>
 			<Product d:type="cDeltaString">addon</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="777675464">
+		<cOwnedEntity d:id="911976184">
 			<Component>
-				<cEditorSceneryRender d:id="788531296">
+				<cEditorSceneryRender d:id="916438728">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -374,16 +436,16 @@
 					<Palette1Index d:type="sUInt8">113</Palette1Index>
 					<Palette2Index d:type="sUInt8">1</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="777675704">
+				<cPosOri d:id="911975704">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="777675728">
+						<cFarMatrix d:id="911975728">
 							<Height d:type="sFloat32" d:alt_encoding="000000E0F2474740" d:precision="string">46.5621</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="777675780">
+								<cFarVector2 d:id="911975780">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -417,7 +479,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="787810520">
+				<cScriptComponent d:id="915820248">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -462,19 +524,19 @@
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="137374632">
+		<iBlueprintLibrary-cBlueprintSetID d:id="106634032">
 			<Provider d:type="cDeltaString">pml3</Provider>
 			<Product d:type="cDeltaString">RailSimulatorCore</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="137374640">
+		<iBlueprintLibrary-cBlueprintSetID d:id="106634040">
 			<Provider d:type="cDeltaString">pml3</Provider>
 			<Product d:type="cDeltaString">addon</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="137374648">
+		<iBlueprintLibrary-cBlueprintSetID d:id="106634048">
 			<Provider d:type="cDeltaString">Dom107</Provider>
 			<Product d:type="cDeltaString">BB17000</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="137374656">
+		<iBlueprintLibrary-cBlueprintSetID d:id="106634056">
 			<Provider d:type="cDeltaString">Dom107</Provider>
 			<Product d:type="cDeltaString">VB2N</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
@@ -486,7 +548,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">3B2791CB43627EE145C803653B7078E8</MD5>
+	<MD5 d:type="cDeltaString">85D89C750911ED11C01D1BFDA9BEBCFD</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
@@ -494,7 +556,6 @@
 	<StartDestString/>
 	<TemplateStartDestMapping/>
 	<IsTemplateGenerated d:type="bool">0</IsTemplateGenerated>
-	<IsQuickDrive d:type="bool">0</IsQuickDrive>
 	<TemplateScenarioGUID>
 		<cGUID>
 			<UUID>
@@ -512,4 +573,7 @@
 	<StartLongitude d:type="sFloat64" d:alt_encoding="0000000000000000" d:precision="string">0</StartLongitude>
 	<StartLatitude d:type="sFloat64" d:alt_encoding="0000000000000000" d:precision="string">0</StartLatitude>
 	<StartHeight d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</StartHeight>
+	<QuickDriveStartName d:type="cDeltaString"></QuickDriveStartName>
+	<QuickDriveEndName d:type="cDeltaString"></QuickDriveEndName>
+	<QuickDrivePlayerConsistName d:type="cDeltaString"></QuickDrivePlayerConsistName>
 </cScenarioProperties>
