@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cRouteProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="778996296">
+<cRouteProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="833195320">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -28,7 +28,7 @@
 		<iBlueprintLibrary-cAbsoluteBlueprintID>
 			<BlueprintSetID>
 				<iBlueprintLibrary-cBlueprintSetID>
-					<Provider d:type="cDeltaString">Sharpe49</Provider>
+					<Provider d:type="cDeltaString">Sharpe</Provider>
 					<Product d:type="cDeltaString">ReseauParisEst</Product>
 				</iBlueprintLibrary-cBlueprintSetID>
 			</BlueprintSetID>
@@ -119,9 +119,9 @@
 	<LockCounter d:type="sUInt32">1</LockCounter>
 	<Locked d:type="bool">0</Locked>
 	<MapProjection>
-		<cMapProjectionOwner d:id="137511328">
+		<cMapProjectionOwner d:id="832671800">
 			<MapProjection>
-				<cUTMMapProjection d:id="779407896">
+				<cUTMMapProjection d:id="835295168">
 					<Origin>
 						<sGeoPosition>
 							<Lat d:type="sFloat64" d:alt_encoding="1C7C613255704840" d:precision="string">48.8776</Lat>
@@ -141,105 +141,109 @@
 		</cMapProjectionOwner>
 	</MapProjection>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323856">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668744">
 			<Provider d:type="cDeltaString">Kuju</Provider>
 			<Product d:type="cDeltaString">RailSimulator</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323864">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668752">
 			<Provider d:type="cDeltaString">Kuju</Provider>
 			<Product d:type="cDeltaString">RailSimulatorCore</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323872">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668760">
 			<Provider d:type="cDeltaString"></Provider>
 			<Product d:type="cDeltaString"></Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323880">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668768">
 			<Provider d:type="cDeltaString">Dominique</Provider>
 			<Product d:type="cDeltaString">Ligne Fran￧ais</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323888">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668776">
 			<Provider d:type="cDeltaString">Dominique</Provider>
 			<Product d:type="cDeltaString">RailNetwork</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323896">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668784">
 			<Provider d:type="cDeltaString">Dominique</Provider>
 			<Product d:type="cDeltaString">Environment</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323904">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668792">
 			<Provider d:type="cDeltaString">Dominique</Provider>
 			<Product d:type="cDeltaString">Signaux SNCF</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323912">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668800">
 			<Provider d:type="cDeltaString">Dominique</Provider>
 			<Product d:type="cDeltaString">RailSimulatorCore</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323920">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668808">
 			<Provider d:type="cDeltaString">Dominique</Provider>
 			<Product d:type="cDeltaString">Scenery</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323928">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668816">
 			<Provider d:type="cDeltaString">Dominique</Provider>
 			<Product d:type="cDeltaString">RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323936">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668824">
 			<Provider d:type="cDeltaString">MR_train_sim</Provider>
 			<Product d:type="cDeltaString">Pancarte Sol</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323944">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668832">
 			<Provider d:type="cDeltaString">MR_train_sim</Provider>
 			<Product d:type="cDeltaString">Pancartes</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323952">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668840">
 			<Provider d:type="cDeltaString">MR_train_sim</Provider>
 			<Product d:type="cDeltaString">Signalisation PO</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323960">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668848">
 			<Provider d:type="cDeltaString">MR_train_sim</Provider>
 			<Product d:type="cDeltaString">TIV</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323968">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668856">
 			<Provider d:type="cDeltaString">MR_train_sim</Provider>
 			<Product d:type="cDeltaString">TIV B</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323976">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668864">
 			<Provider d:type="cDeltaString">MR_train_sim</Provider>
 			<Product d:type="cDeltaString">Pancarte Elec</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323984">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668872">
 			<Provider d:type="cDeltaString">MR_train_sim</Provider>
 			<Product d:type="cDeltaString">TIV C</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378323992">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668880">
 			<Provider d:type="cDeltaString">MR_train_sim</Provider>
 			<Product d:type="cDeltaString">TIV_L</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378324000">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668888">
 			<Provider d:type="cDeltaString">TerLor</Provider>
 			<Product d:type="cDeltaString">SNCFChassisEcran</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378324008">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668896">
 			<Provider d:type="cDeltaString">TerLor</Provider>
 			<Product d:type="cDeltaString">SNCFTableau</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378324016">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668904">
 			<Provider d:type="cDeltaString">TerLor</Provider>
 			<Product d:type="cDeltaString">PSL</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378324024">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668912">
 			<Provider d:type="cDeltaString">TerLor</Provider>
 			<Product d:type="cDeltaString">LdN</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378324032">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668920">
 			<Provider d:type="cDeltaString">TerLor</Provider>
 			<Product d:type="cDeltaString">Creation</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378324040">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668928">
 			<Provider d:type="cDeltaString">Sharpe</Provider>
 			<Product d:type="cDeltaString">ReseauParisEst</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1378324048">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668936">
 			<Provider d:type="cDeltaString">MR_train_sim</Provider>
 			<Product d:type="cDeltaString">Gares</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="1414668944">
+			<Provider d:type="cDeltaString">RSC</Provider>
+			<Product d:type="cDeltaString">KentHighSpeed</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RBlueprintSetPreLoad>
 	<AuthoredLanguage d:type="cDeltaString">fr</AuthoredLanguage>
